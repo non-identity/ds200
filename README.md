@@ -4,8 +4,8 @@ This repository contains code, data and plots for assignment given as a part of 
 
 ## Datasets
 
-- DATASET1 : [All India Crowdsourced Mobile Data Speed Measurement for July 2019](https://data.gov.in/resources/all-india-crowdsourced-mobile-data-speed-measurement-july-2019) (Reference - [Link](https://myspeed.trai.gov.in/))
-- DATASET2 : [Monthly Traffic and Operating Statistics of Indian Carriers on Non-Scheduled Domestic Services during 2017](https://data.gov.in/resources/monthly-traffic-and-operating-statistics-indian-carriers-non-scheduled-domestic-services-0) (Reference - [Link](http://dgca.nic.in/reports/stat-ind.htm))
+- **DATASET1** : [All India Crowdsourced Mobile Data Speed Measurement for July 2019](https://data.gov.in/resources/all-india-crowdsourced-mobile-data-speed-measurement-july-2019) (Reference - [Link](https://myspeed.trai.gov.in/))
+- **DATASET2** : [Monthly Traffic and Operating Statistics of Indian Carriers on Non-Scheduled Domestic Services during 2017](https://data.gov.in/resources/monthly-traffic-and-operating-statistics-indian-carriers-non-scheduled-domestic-services-0) (Reference - [Link](http://dgca.nic.in/reports/stat-ind.htm))
 
 ## Plots
 
